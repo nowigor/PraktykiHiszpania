@@ -36,7 +36,7 @@
 <h3 align="center">Hiszpania Praktyki</h3>
 
   <p align="center">
-    project_description
+    This project is a simple HTML template for a webpage that features a greeting message and an image. It includes basic HTML structure, links to an external stylesheet for styling, and an image sourced from a local directory. The purpose of this template is to provide a starting point for creating a web page with minimal setup.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
